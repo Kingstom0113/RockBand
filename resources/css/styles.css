@@ -87,3 +87,13 @@ footer {
     width: 100%;
     height: auto;
 }
+
+
+.container {
+    max-width: 800px;
+}
+
+p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+}
